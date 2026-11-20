@@ -1,0 +1,10 @@
+# FICHEIRO XLSX
+
+import pandas as pd 
+
+tabela = pd.read_excel("Produtos.xlsx")
+
+print(tabela)
+
+
+
